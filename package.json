@@ -1,0 +1,9 @@
+{
+  "name": "bootstrap-nested-carousel",
+  "version": "0.1.0",
+  "description": "A fork from Bootstrap Carousel module to allow nested carousels",
+  "main": "carousel.js",
+  "repository": "git@github.com:TheMaxoor/bootstrap-nested-carousel.git",
+  "author": "<contact@mrossignol.fr>",
+  "license": "MIT"
+}
