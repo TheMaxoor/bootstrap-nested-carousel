@@ -6,5 +6,10 @@
   "repository": "git@github.com:TheMaxoor/bootstrap-nested-carousel.git",
   "author": "<contact@mrossignol.fr>",
   "license": "MIT",
+  "keywords": [
+    "carousel",
+    "bootstrap",
+    "ES6"
+  ],
   "dependencies": {}
 }
