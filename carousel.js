@@ -70,7 +70,7 @@ const Carousel = (($) => {
   }
 
   const Selector = {
-    ACTIVE      : '> .carousel-inner > .active',
+    ACTIVE      : '> .active',
     ACTIVE_ITEM : '> .carousel-inner > .active.carousel-item',
     ITEM        : '> .carousel-inner > .carousel-item',
     NEXT_PREV   : '> .carousel-inner > .carousel-item-next, .carousel-item-prev',
