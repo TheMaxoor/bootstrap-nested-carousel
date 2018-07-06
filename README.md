@@ -6,7 +6,7 @@ A fork from Bootstrap Carousel module to allow nested carousels
 This package has not been heavily tested.  
 Feel free to open an issue if you experience something weird.  
 
-Please also note that the main js file is written using ES6 features. You may use a Javascript compiler to use it in your project.
+Please also note that the main js file is written using ES6 features. You may have to use a Javascript compiler to use it in your project.
 A build version will be generated later.
 
 ## Install
